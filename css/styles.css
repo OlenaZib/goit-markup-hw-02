@@ -41,7 +41,7 @@ color: #2E2F42;
 font-weight: 500;
 line-height: 24px; /* 150% */
 letter-spacing: 0.32px;
-
+  }
 .header-list-item-link {
     color: #2e2f42;
 }
@@ -53,14 +53,29 @@ letter-spacing: 0.32px;
 .header-list-item-link:active{
     color: #404bbf;
 }
-  }
+  /* ===================================address========================= */
   .contacts {
     color: #434455;
 font-size: 16px;
+font-style: normal;
 font-weight: 400;
 line-height: 24px; 
 letter-spacing: 0.32px;
+
   }
+.contacts-link {
+    color:#434455;
+}
+.contacts-link:hover {
+    color: #404bbf;
+}
+.contacts-link:active {
+    color: #404bbf ;
+}
+
+
+
+
   /* =====================================Section one============================== */
   .section-one-title {
     color:#FFF;
