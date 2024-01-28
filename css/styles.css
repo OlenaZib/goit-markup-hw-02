@@ -42,6 +42,17 @@ font-weight: 500;
 line-height: 24px; /* 150% */
 letter-spacing: 0.32px;
 
+.header-list-item-link {
+    color: #2e2f42;
+}
+
+.header-list-item-link:hover{
+    color: #404bbf 
+
+}
+.header-list-item-link:active{
+    color: #404bbf;
+}
   }
   .contacts {
     color: #434455;
