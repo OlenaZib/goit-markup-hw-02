@@ -1,43 +1,19 @@
 /*--------------скидання дифолтних стилів+основні правила----------------*/
 
-  h1,
-  h2,
-  h3,
-  h4,
-  h5,
-  h6,
-  p {
-    margin-top: 0;
-    margin-bottom: 0;
-  }
+
+  
   
   ul,
   ol {
-    margin-top: 0;
-    margin-bottom: 0;
-    padding-left: 0;
+
   list-style-type: none;
   }
   
-  img {
-    display: block;
-    max-width: 100%;
-    height: auto;
-  }
-  
-  button {
-    cursor: pointer;
-  }
-  
-  
-  button {
-    cursor: pointer;
-  }
   
   body {
     font-family: "Roboto", sans-serif;
     background: #FFF;
-    color: #2E2F42;
+    color: #434455;
     font-style: normal;
   }
   
@@ -111,7 +87,7 @@ letter-spacing: 0.32px;
 text-align: center;
 font-size: 36px;
 font-weight: 700;
-line-height: 40px;
+line-height: 1.11;
 letter-spacing: 0.72px;
 text-transform: capitalize;
 }
