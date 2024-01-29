@@ -108,15 +108,15 @@ font-family: Roboto;
 font-size: 20px;
 font-style: normal;
 font-weight: 500;
-line-height: 24px;
-letter-spacing: 0.4px;
+line-height: 1.2;
+letter-spacing: 0.02em;
 }
 .section-two-text {
 color: #434455;
 font-size: 16px;
 font-weight: 400;
-line-height: 24px; 
-letter-spacing: 0.32px;
+line-height: 1.5; 
+letter-spacing: 0.02em;
 
 }
 /* ============================Section three=================================== */
@@ -150,3 +150,30 @@ line-height: 24px;
 letter-spacing: 0.32px;
 
 }
+/* ==============================section four======================== */
+.section-four-title {
+  color: #2E2F42;
+font-family: Roboto;
+font-size: 20px;
+font-style: normal;
+font-weight: 500;
+line-height: 1.2; 
+letter-spacing: 0.02em;
+}
+.section-four-text {
+  color: #434455;
+font-family: Roboto;
+font-style: normal;
+font-weight: 400;
+line-height: 1.5;
+letter-spacing: 0.02em;
+}
+
+
+
+
+
+
+
+
+
