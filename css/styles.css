@@ -5,19 +5,14 @@
   
   ul,
   ol {
-
   list-style-type: none;
   }
-  
-  
   body {
     font-family: "Roboto", sans-serif;
     background: #FFF;
     color: #434455;
-    font-style: normal;
+    
   }
-  
-  
   a {
     text-decoration: none;
   }
@@ -39,8 +34,8 @@ color: #2E2F42;
   .header-list {
     font-size: 16px;
 font-weight: 500;
-line-height: 24px; /* 150% */
-letter-spacing: 0.32px;
+line-height: 1.15; 
+letter-spacing: 0.02em;
   }
 .header-list-item-link {
     color: #2e2f42;
@@ -62,7 +57,7 @@ letter-spacing: 0.32px;
 font-size: 16px;
 font-weight: 400;
 line-height: 24px; 
-letter-spacing: 0.32px;
+letter-spacing: 0.02em;
 
   }
 .header-contacts-link {
@@ -104,9 +99,7 @@ background-color: #404BBF
 /* =========================Secnion two========================================= */
 .section-two-title {
   color: #2E2F42;
-font-family: Roboto;
 font-size: 20px;
-font-style: normal;
 font-weight: 500;
 line-height: 1.2;
 letter-spacing: 0.02em;
@@ -129,14 +122,14 @@ text-align: center;
 font-size: 36px;
 font-weight: 700;
 line-height: 1.11;
-letter-spacing: 0.72px;
+letter-spacing: 0.02;
 text-transform: capitalize;
 }
 .section-three-title {
 font-size: 20px;
 font-weight: 500;
 line-height: 24px; 
-letter-spacing: 0.4px;
+letter-spacing: 0.02em;
 color:#2e2f42;
 }
 .section-three-link {
@@ -147,10 +140,21 @@ color:#2e2f42;
 font-size: 16px;
 font-weight: 400;
 line-height: 24px; 
-letter-spacing: 0.32px;
+letter-spacing: 0.02em;
 
 }
 /* ==============================section four======================== */
+
+.section-four {
+  color: #2E2F42;
+text-align: center;
+font-family: Roboto;
+font-size: 36px;
+font-weight: 700;
+line-height: 1.11;
+letter-spacing: 0.02em;
+text-transform: capitalize;
+}
 .section-four-title {
   color: #2E2F42;
 font-family: Roboto;
@@ -201,3 +205,13 @@ font-weight: 400;
 line-height: 1.5; 
 letter-spacing: 0.02em;
 }
+
+
+
+
+
+
+
+
+
+
