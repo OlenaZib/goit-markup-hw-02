@@ -39,6 +39,7 @@ letter-spacing: 0.02em;
   }
 .header-list-item-link {
     color: #2e2f42;
+    line-height: 1.5;
 }
 
 .header-list-item-link:hover,
